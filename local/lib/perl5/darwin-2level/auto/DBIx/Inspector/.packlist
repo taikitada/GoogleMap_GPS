@@ -1,0 +1,13 @@
+/fout/fout/GoogleMap_GPS/local/lib/perl5/DBIx/Inspector.pm
+/fout/fout/GoogleMap_GPS/local/lib/perl5/DBIx/Inspector/Column.pm
+/fout/fout/GoogleMap_GPS/local/lib/perl5/DBIx/Inspector/Column/Pg.pm
+/fout/fout/GoogleMap_GPS/local/lib/perl5/DBIx/Inspector/Driver/Base.pm
+/fout/fout/GoogleMap_GPS/local/lib/perl5/DBIx/Inspector/Driver/Pg.pm
+/fout/fout/GoogleMap_GPS/local/lib/perl5/DBIx/Inspector/Driver/SQLite.pm
+/fout/fout/GoogleMap_GPS/local/lib/perl5/DBIx/Inspector/Driver/mysql.pm
+/fout/fout/GoogleMap_GPS/local/lib/perl5/DBIx/Inspector/ForeignKey.pm
+/fout/fout/GoogleMap_GPS/local/lib/perl5/DBIx/Inspector/ForeignKey/Pg.pm
+/fout/fout/GoogleMap_GPS/local/lib/perl5/DBIx/Inspector/Iterator.pm
+/fout/fout/GoogleMap_GPS/local/lib/perl5/DBIx/Inspector/Iterator/Null.pm
+/fout/fout/GoogleMap_GPS/local/lib/perl5/DBIx/Inspector/Table.pm
+/fout/fout/GoogleMap_GPS/local/lib/perl5/DBIx/Inspector/Table/Pg.pm
