@@ -37,6 +37,16 @@ sub make_instance {
             'GoogleMapGPS::Web::ViewFunctions',
         ],
         'function' => {
+          json => sub {
+              my $hashref = shift;
+              my $json = JSON->new->ascii->encode($hashref);
+              my $bs = '\\';
+              $json =~ s!/!${bs}/!g;
+              $json =~ s!<!${bs}u003c!g;
+              $json =~ s!>!${bs}u003e!g;
+              $json =~ s!&!${bs}u0026!g;
+              Text::Xslate::mark_raw($json);
+          },
         },
         ($context->debug_mode ? ( warn_handler => sub {
             Text::Xslate->print( # print method escape html automatically

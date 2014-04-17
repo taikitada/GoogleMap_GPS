@@ -13,4 +13,11 @@ table {
     columns qw(id name);
 };
 
+table {
+    name 'ip_gps';
+    pk qw(time, ip);
+    columns qw(time, ip, latitude, longitude);
+
+};
+
 1;

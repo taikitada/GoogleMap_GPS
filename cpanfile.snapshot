@@ -1151,6 +1151,12 @@ DISTRIBUTIONS
       File::Spec 0.80
       JSON::PP 2.27200
       strict 0
+  PerlIO-eol-0.14
+    pathname: A/AU/AUDREYT/PerlIO-eol-0.14.tar.gz
+    provides:
+      PerlIO::eol 0.14
+    requirements:
+      ExtUtils::MakeMaker 0
   Plack-1.0030
     pathname: M/MI/MIYAGAWA/Plack-1.0030.tar.gz
     provides:
@@ -1629,6 +1635,17 @@ DISTRIBUTIONS
       Test::Builder::Tester 1.02
       Test::More 0
       perl 5.006
+  Text-CSV-1.32
+    pathname: M/MA/MAKAMAKA/Text-CSV-1.32.tar.gz
+    provides:
+      Text::CSV 1.32
+      Text::CSV::ErrorDiag 1.31
+      Text::CSV_PP 1.31
+    requirements:
+      ExtUtils::MakeMaker 0
+      IO::Handle 0
+      Test::Harness 0
+      Test::More 0
   Text-Xslate-3.1.2
     pathname: G/GF/GFUJI/Text-Xslate-3.1.2.tar.gz
     provides:

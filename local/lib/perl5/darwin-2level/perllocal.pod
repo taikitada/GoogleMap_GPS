@@ -1692,3 +1692,47 @@ C<EXE_FILES: >
 
 =back
 
+=head2 Mon Apr 14 17:02:40 2014: C<Module> L<Text::CSV|Text::CSV>
+
+=over 4
+
+=item *
+
+C<installed into: /fout/fout/GoogleMap_GPS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.32>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 14 17:42:25 2014: C<Module> L<PerlIO::eol|PerlIO::eol>
+
+=over 4
+
+=item *
+
+C<installed into: /fout/fout/GoogleMap_GPS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.14>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
